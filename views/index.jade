@@ -1,0 +1,17 @@
+extends layout
+
+block head
+	script(src='//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js')
+	script(src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js")
+	script(src="/datamaps.world.min.js")
+
+
+
+block content
+	h1= title
+	p Welcome to #{title}
+
+	#container(style='position: relative; width: 500px; height: 300px;')
+	script.
+		var map = new Datamap({element: document.getElementById('container')});
+
