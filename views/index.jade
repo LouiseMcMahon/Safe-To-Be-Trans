@@ -1,17 +1,45 @@
 extends layout
 
 block head
-	script(src='//cdnjs.cloudflare.com/ajax/libs/d3/3.5.3/d3.min.js')
-	script(src="//cdnjs.cloudflare.com/ajax/libs/topojson/1.6.9/topojson.min.js")
-	script(src="/datamaps.world.min.js")
-
-
+	script(src='https://code.jquery.com/jquery-3.1.0.min.js' integrity='sha256-cCueBR6CsyA4/9szpPfrX3s49M9vUU5BgtiJj06wt/s=' crossorigin='anonymous')
+	script(src='/map/ammap.js')
+	script(src='/map/maps/worldLow.js')
+	script(src='/map/themes/light.js')
+	script(src='/map/plugins/responsive/responsive.min.js')
 
 block content
-	h1= title
-	p Welcome to #{title}
+	.col-xs-12
+		script.
+			var map = AmCharts.makeChart( 'chartdiv', {
+				'type': 'map',
+				'theme': 'light',
+				'projection':'miller',
+				'dataProvider': {
+					'map': 'worldLow',
+					'getAreasFromMap': true,
+					'areas': [
+						{'id': 'AU', 'color': '#CC0000'},
+						{'id': 'US', 'color': '#00CC00'},
+						{'id': 'FR', 'color': '#0000CC'}
+					]
+				},
+				'areasSettings': {
+					'autoZoom': true,
+					'selectedColor': '#CC0000'
+				},
+				'smallMap': {},
+				'responsive': {
+					'enabled': true,
 
-	#container(style='position: relative; width: 500px; height: 300px;')
-	script.
-		var map = new Datamap({element: document.getElementById('container')});
+				}
+			} );
 
+			//scales the height as AmCharts does not work if the container has percentage height
+			$(function () {
+				$(window).resize(function () {
+					$('#chartdiv').height($(window).height() - $('#chartdiv').offset().top);
+				});
+				$(window).resize();
+			});
+
+		#chartdiv

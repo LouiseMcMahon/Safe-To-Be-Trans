@@ -34,7 +34,13 @@ app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
 app.use('/users', users);
-app.use('/datamaps.world.min.js', express.static('node_modules/datamaps/dist/datamaps.world.min.js'));
+
+//ammap files
+app.use('/map/ammap.js', express.static('node_modules/ammap3/ammap/ammap.js'));
+app.use('/map/maps/worldLow.js', express.static('node_modules/ammap3/ammap/maps/js/worldLow.js'));
+app.use('/map/themes/light.js', express.static('node_modules/ammap3/ammap/themes/light.js'));
+app.use('/map/plugins/responsive/responsive.min.js', express.static('node_modules/ammap3/ammap/plugins/responsive/responsive.min.js'));
+app.use('/map/plugins/responsive/responsive.min.js.map', express.static('node_modules/ammap3/ammap/plugins/responsive/responsive.min.js.map'));
 
 
 
