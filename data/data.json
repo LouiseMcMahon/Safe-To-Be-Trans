@@ -2,532 +2,657 @@
 	{
 		"name": "Afghanistan",
 		"alpha-2": "AF",
-		"country-code": "004"
+		"country-code": "004",
+		"homosexuality": false
 	},
 	{
 		"name": "Åland Islands",
 		"alpha-2": "AX",
-		"country-code": "248"
+		"country-code": "248",
+		"homosexuality": true
 	},
 	{
 		"name": "Albania",
 		"alpha-2": "AL",
-		"country-code": "008"
+		"country-code": "008",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Algeria",
 		"alpha-2": "DZ",
-		"country-code": "012"
+		"country-code": "012",
+		"homosexuality": false
 	},
 	{
 		"name": "American Samoa",
 		"alpha-2": "AS",
-		"country-code": "016"
+		"country-code": "016",
+		"homosexuality": true
 	},
 	{
 		"name": "Andorra",
 		"alpha-2": "AD",
-		"country-code": "020"
+		"country-code": "020",
+		"homosexuality": true
 	},
 	{
 		"name": "Angola",
 		"alpha-2": "AO",
-		"country-code": "024"
+		"country-code": "024",
+		"homosexuality": false
 	},
 	{
 		"name": "Anguilla",
 		"alpha-2": "AI",
-		"country-code": "660"
+		"country-code": "660",
+		"homosexuality": true
 	},
 	{
 		"name": "Antarctica",
 		"alpha-2": "AQ",
-		"country-code": "010"
+		"country-code": "010",
+		"homosexuality": true
 	},
 	{
 		"name": "Antigua and Barbuda",
 		"alpha-2": "AG",
-		"country-code": "028"
+		"country-code": "028",
+		"homosexuality": false
 	},
 	{
 		"name": "Argentina",
 		"alpha-2": "AR",
-		"country-code": "032"
+		"country-code": "032",
+		"homosexuality": true
 	},
 	{
 		"name": "Armenia",
 		"alpha-2": "AM",
-		"country-code": "051"
+		"country-code": "051",
+		"homosexuality": true
 	},
 	{
 		"name": "Aruba",
 		"alpha-2": "AW",
-		"country-code": "533"
+		"country-code": "533",
+		"homosexuality": true
 	},
 	{
 		"name": "Australia",
 		"alpha-2": "AU",
-		"country-code": "036"
+		"country-code": "036",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Austria",
 		"alpha-2": "AT",
-		"country-code": "040"
+		"country-code": "040",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Azerbaijan",
 		"alpha-2": "AZ",
-		"country-code": "031"
+		"country-code": "031",
+		"homosexuality": true
 	},
 	{
 		"name": "Bahamas",
 		"alpha-2": "BS",
-		"country-code": "044"
+		"country-code": "044",
+		"homosexuality": true
 	},
 	{
 		"name": "Bahrain",
 		"alpha-2": "BH",
-		"country-code": "048"
+		"country-code": "048",
+		"homosexuality": true
 	},
 	{
 		"name": "Bangladesh",
 		"alpha-2": "BD",
-		"country-code": "050"
+		"country-code": "050",
+		"homosexuality": false
 	},
 	{
 		"name": "Barbados",
 		"alpha-2": "BB",
-		"country-code": "052"
+		"country-code": "052",
+		"homosexuality": false
 	},
 	{
 		"name": "Belarus",
 		"alpha-2": "BY",
-		"country-code": "112"
+		"country-code": "112",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Belgium",
 		"alpha-2": "BE",
-		"country-code": "056"
+		"country-code": "056",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Belize",
 		"alpha-2": "BZ",
-		"country-code": "084"
+		"country-code": "084",
+		"homosexuality": false
 	},
 	{
 		"name": "Benin",
 		"alpha-2": "BJ",
-		"country-code": "204"
+		"country-code": "204",
+		"homosexuality": true
 	},
 	{
 		"name": "Bermuda",
 		"alpha-2": "BM",
-		"country-code": "060"
+		"country-code": "060",
+		"homosexuality": true
 	},
 	{
 		"name": "Bhutan",
 		"alpha-2": "BT",
-		"country-code": "064"
+		"country-code": "064",
+		"homosexuality": false
 	},
 	{
 		"name": "Bolivia (Plurinational State of)",
 		"alpha-2": "BO",
-		"country-code": "068"
+		"country-code": "068",
+		"homosexuality": true
 	},
 	{
 		"name": "Bonaire, Sint Eustatius and Saba",
 		"alpha-2": "BQ",
-		"country-code": "535"
+		"country-code": "535",
+		"homosexuality": true
 	},
 	{
 		"name": "Bosnia and Herzegovina",
 		"alpha-2": "BA",
-		"country-code": "070"
+		"country-code": "070",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Botswana",
 		"alpha-2": "BW",
-		"country-code": "072"
+		"country-code": "072",
+		"homosexuality": false
 	},
 	{
 		"name": "Bouvet Island",
 		"alpha-2": "BV",
-		"country-code": "074"
+		"country-code": "074",
+		"homosexuality": true
 	},
 	{
 		"name": "Brazil",
 		"alpha-2": "BR",
-		"country-code": "076"
+		"country-code": "076",
+		"homosexuality": true
 	},
 	{
 		"name": "British Indian Ocean Territory",
 		"alpha-2": "IO",
-		"country-code": "086"
+		"country-code": "086",
+		"homosexuality": true
 	},
 	{
 		"name": "Brunei Darussalam",
 		"alpha-2": "BN",
-		"country-code": "096"
+		"country-code": "096",
+		"homosexuality": false
 	},
 	{
 		"name": "Bulgaria",
 		"alpha-2": "BG",
-		"country-code": "100"
+		"country-code": "100",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Burkina Faso",
 		"alpha-2": "BF",
-		"country-code": "854"
+		"country-code": "854",
+		"homosexuality": true
 	},
 	{
 		"name": "Burundi",
 		"alpha-2": "BI",
-		"country-code": "108"
+		"country-code": "108",
+		"homosexuality": false
 	},
 	{
 		"name": "Cambodia",
 		"alpha-2": "KH",
-		"country-code": "116"
+		"country-code": "116",
+		"homosexuality": true
 	},
 	{
 		"name": "Cameroon",
 		"alpha-2": "CM",
-		"country-code": "120"
+		"country-code": "120",
+		"homosexuality": false
 	},
 	{
 		"name": "Canada",
 		"alpha-2": "CA",
-		"country-code": "124"
+		"country-code": "124",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Cabo Verde",
 		"alpha-2": "CV",
-		"country-code": "132"
+		"country-code": "132",
+		"homosexuality": true
 	},
 	{
 		"name": "Cayman Islands",
 		"alpha-2": "KY",
-		"country-code": "136"
+		"country-code": "136",
+		"homosexuality": true
 	},
 	{
 		"name": "Central African Republic",
 		"alpha-2": "CF",
-		"country-code": "140"
+		"country-code": "140",
+		"homosexuality": true
 	},
 	{
 		"name": "Chad",
 		"alpha-2": "TD",
-		"country-code": "148"
+		"country-code": "148",
+		"homosexuality": true
 	},
 	{
 		"name": "Chile",
 		"alpha-2": "CL",
-		"country-code": "152"
+		"country-code": "152",
+		"homosexuality": true
 	},
 	{
 		"name": "China",
 		"alpha-2": "CN",
-		"country-code": "156"
+		"country-code": "156",
+		"homosexuality": true
 	},
 	{
 		"name": "Christmas Island",
 		"alpha-2": "CX",
-		"country-code": "162"
+		"country-code": "162",
+		"homosexuality": true
 	},
 	{
 		"name": "Cocos (Keeling) Islands",
 		"alpha-2": "CC",
-		"country-code": "166"
+		"country-code": "166",
+		"homosexuality": true
 	},
 	{
 		"name": "Colombia",
 		"alpha-2": "CO",
-		"country-code": "170"
+		"country-code": "170",
+		"homosexuality": true
 	},
 	{
 		"name": "Comoros",
 		"alpha-2": "KM",
-		"country-code": "174"
+		"country-code": "174",
+		"homosexuality": false
 	},
 	{
 		"name": "Congo",
 		"alpha-2": "CG",
-		"country-code": "178"
+		"country-code": "178",
+		"homosexuality": true
 	},
 	{
 		"name": "Congo (Democratic Republic of the)",
 		"alpha-2": "CD",
-		"country-code": "180"
+		"country-code": "180",
+		"homosexuality": true
 	},
 	{
 		"name": "Cook Islands",
 		"alpha-2": "CK",
-		"country-code": "184"
+		"country-code": "184",
+		"homosexuality": false
 	},
 	{
 		"name": "Costa Rica",
 		"alpha-2": "CR",
-		"country-code": "188"
+		"country-code": "188",
+		"homosexuality": true
 	},
 	{
 		"name": "Côte d'Ivoire",
 		"alpha-2": "CI",
-		"country-code": "384"
+		"country-code": "384",
+		"homosexuality": true
 	},
 	{
 		"name": "Croatia",
 		"alpha-2": "HR",
-		"country-code": "191"
+		"country-code": "191",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Cuba",
 		"alpha-2": "CU",
-		"country-code": "192"
+		"country-code": "192",
+		"homosexuality": true
 	},
 	{
 		"name": "Curaçao",
 		"alpha-2": "CW",
-		"country-code": "531"
+		"country-code": "531",
+		"homosexuality": true
 	},
 	{
 		"name": "Cyprus",
 		"alpha-2": "CY",
-		"country-code": "196"
+		"country-code": "196",
+		"homosexuality": true
 	},
 	{
 		"name": "Czech Republic",
 		"alpha-2": "CZ",
-		"country-code": "203"
+		"country-code": "203",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Denmark",
 		"alpha-2": "DK",
-		"country-code": "208"
+		"country-code": "208",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Djibouti",
 		"alpha-2": "DJ",
-		"country-code": "262"
+		"country-code": "262",
+		"homosexuality": true
 	},
 	{
 		"name": "Dominica",
 		"alpha-2": "DM",
-		"country-code": "212"
+		"country-code": "212",
+		"homosexuality": false
 	},
 	{
 		"name": "Dominican Republic",
 		"alpha-2": "DO",
-		"country-code": "214"
+		"country-code": "214",
+		"homosexuality": true
 	},
 	{
 		"name": "Ecuador",
 		"alpha-2": "EC",
-		"country-code": "218"
+		"country-code": "218",
+		"homosexuality": true
 	},
 	{
 		"name": "Egypt",
 		"alpha-2": "EG",
-		"country-code": "818"
+		"country-code": "818",
+		"homosexuality": false
 	},
 	{
 		"name": "El Salvador",
 		"alpha-2": "SV",
-		"country-code": "222"
+		"country-code": "222",
+		"homosexuality": true
 	},
 	{
 		"name": "Equatorial Guinea",
 		"alpha-2": "GQ",
-		"country-code": "226"
+		"country-code": "226",
+		"homosexuality": true
 	},
 	{
 		"name": "Eritrea",
 		"alpha-2": "ER",
-		"country-code": "232"
+		"country-code": "232",
+		"homosexuality": false
 	},
 	{
 		"name": "Estonia",
 		"alpha-2": "EE",
-		"country-code": "233"
+		"country-code": "233",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Ethiopia",
 		"alpha-2": "ET",
-		"country-code": "231"
+		"country-code": "231",
+		"homosexuality": false
 	},
 	{
 		"name": "Falkland Islands (Malvinas)",
 		"alpha-2": "FK",
-		"country-code": "238"
+		"country-code": "238",
+		"homosexuality": true
 	},
 	{
 		"name": "Faroe Islands",
 		"alpha-2": "FO",
-		"country-code": "234"
+		"country-code": "234",
+		"homosexuality": true
 	},
 	{
 		"name": "Fiji",
 		"alpha-2": "FJ",
-		"country-code": "242"
+		"country-code": "242",
+		"homosexuality": true
 	},
 	{
 		"name": "Finland",
 		"alpha-2": "FI",
-		"country-code": "246"
+		"country-code": "246",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "France",
 		"alpha-2": "FR",
-		"country-code": "250"
+		"country-code": "250",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "French Guiana",
 		"alpha-2": "GF",
-		"country-code": "254"
+		"country-code": "254",
+		"homosexuality": true
 	},
 	{
 		"name": "French Polynesia",
 		"alpha-2": "PF",
-		"country-code": "258"
+		"country-code": "258",
+		"homosexuality": true
 	},
 	{
 		"name": "French Southern Territories",
 		"alpha-2": "TF",
-		"country-code": "260"
+		"country-code": "260",
+		"homosexuality": true
 	},
 	{
 		"name": "Gabon",
 		"alpha-2": "GA",
-		"country-code": "266"
+		"country-code": "266",
+		"homosexuality": true
 	},
 	{
 		"name": "Gambia",
 		"alpha-2": "GM",
-		"country-code": "270"
+		"country-code": "270",
+		"homosexuality": false
 	},
 	{
 		"name": "Georgia",
 		"alpha-2": "GE",
-		"country-code": "268"
+		"country-code": "268",
+		"homosexuality": true
 	},
 	{
 		"name": "Germany",
 		"alpha-2": "DE",
-		"country-code": "276"
+		"country-code": "276",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Ghana",
 		"alpha-2": "GH",
-		"country-code": "288"
+		"country-code": "288",
+		"homosexuality": false
 	},
 	{
 		"name": "Gibraltar",
 		"alpha-2": "GI",
-		"country-code": "292"
+		"country-code": "292",
+		"homosexuality": true
 	},
 	{
 		"name": "Greece",
 		"alpha-2": "GR",
-		"country-code": "300"
+		"country-code": "300",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Greenland",
 		"alpha-2": "GL",
-		"country-code": "304"
+		"country-code": "304",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Grenada",
 		"alpha-2": "GD",
-		"country-code": "308"
+		"country-code": "308",
+		"homosexuality": false
 	},
 	{
 		"name": "Guadeloupe",
 		"alpha-2": "GP",
-		"country-code": "312"
+		"country-code": "312",
+		"homosexuality": true
 	},
 	{
 		"name": "Guam",
 		"alpha-2": "GU",
-		"country-code": "316"
+		"country-code": "316",
+		"homosexuality": true
 	},
 	{
 		"name": "Guatemala",
 		"alpha-2": "GT",
-		"country-code": "320"
+		"country-code": "320",
+		"homosexuality": true
 	},
 	{
 		"name": "Guernsey",
 		"alpha-2": "GG",
-		"country-code": "831"
+		"country-code": "831",
+		"homosexuality": true
 	},
 	{
 		"name": "Guinea",
 		"alpha-2": "GN",
-		"country-code": "324"
+		"country-code": "324",
+		"homosexuality": false
 	},
 	{
 		"name": "Guinea-Bissau",
 		"alpha-2": "GW",
-		"country-code": "624"
+		"country-code": "624",
+		"homosexuality": true
 	},
 	{
 		"name": "Guyana",
 		"alpha-2": "GY",
-		"country-code": "328"
+		"country-code": "328",
+		"homosexuality": false
 	},
 	{
 		"name": "Haiti",
 		"alpha-2": "HT",
-		"country-code": "332"
+		"country-code": "332",
+		"homosexuality": true
 	},
 	{
 		"name": "Heard Island and McDonald Islands",
 		"alpha-2": "HM",
-		"country-code": "334"
+		"country-code": "334",
+		"homosexuality": true
 	},
 	{
 		"name": "Holy See",
 		"alpha-2": "VA",
-		"country-code": "336"
+		"country-code": "336",
+		"homosexuality": true
 	},
 	{
 		"name": "Honduras",
 		"alpha-2": "HN",
-		"country-code": "340"
+		"country-code": "340",
+		"homosexuality": true
 	},
 	{
 		"name": "Hong Kong",
 		"alpha-2": "HK",
-		"country-code": "344"
+		"country-code": "344",
+		"homosexuality": true
 	},
 	{
 		"name": "Hungary",
 		"alpha-2": "HU",
-		"country-code": "348"
+		"country-code": "348",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Iceland",
 		"alpha-2": "IS",
-		"country-code": "352"
+		"country-code": "352",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "India",
 		"alpha-2": "IN",
-		"country-code": "356"
+		"country-code": "356",
+		"homosexuality": false
 	},
 	{
 		"name": "Indonesia",
 		"alpha-2": "ID",
-		"country-code": "360"
+		"country-code": "360",
+		"homosexuality": false
 	},
 	{
 		"name": "Iran (Islamic Republic of)",
 		"alpha-2": "IR",
-		"country-code": "364"
+		"country-code": "364",
+		"homosexuality": false
 	},
 	{
 		"name": "Iraq",
 		"alpha-2": "IQ",
-		"country-code": "368"
+		"country-code": "368",
+		"homosexuality": true
 	},
 	{
 		"name": "Ireland",
@@ -539,247 +664,305 @@
 	{
 		"name": "Isle of Man",
 		"alpha-2": "IM",
-		"country-code": "833"
+		"country-code": "833",
+		"homosexuality": true
 	},
 	{
 		"name": "Israel",
 		"alpha-2": "IL",
-		"country-code": "376"
+		"country-code": "376",
+		"homosexuality": true
 	},
 	{
 		"name": "Italy",
 		"alpha-2": "IT",
-		"country-code": "380"
+		"country-code": "380",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Jamaica",
 		"alpha-2": "JM",
-		"country-code": "388"
+		"country-code": "388",
+		"homosexuality": false
 	},
 	{
 		"name": "Japan",
 		"alpha-2": "JP",
-		"country-code": "392"
+		"country-code": "392",
+		"homosexuality": true
 	},
 	{
 		"name": "Jersey",
 		"alpha-2": "JE",
-		"country-code": "832"
+		"country-code": "832",
+		"homosexuality": true
 	},
 	{
 		"name": "Jordan",
 		"alpha-2": "JO",
-		"country-code": "400"
+		"country-code": "400",
+		"homosexuality": true
 	},
 	{
 		"name": "Kazakhstan",
 		"alpha-2": "KZ",
-		"country-code": "398"
+		"country-code": "398",
+		"homosexuality": true
 	},
 	{
 		"name": "Kenya",
 		"alpha-2": "KE",
-		"country-code": "404"
+		"country-code": "404",
+		"homosexuality": false
 	},
 	{
 		"name": "Kiribati",
 		"alpha-2": "KI",
-		"country-code": "296"
+		"country-code": "296",
+		"homosexuality": false
 	},
 	{
 		"name": "Korea (Democratic People's Republic of)",
 		"alpha-2": "KP",
-		"country-code": "408"
+		"country-code": "408",
+		"homosexuality": true
 	},
 	{
 		"name": "Korea (Republic of)",
 		"alpha-2": "KR",
-		"country-code": "410"
+		"country-code": "410",
+		"homosexuality": true
 	},
 	{
 		"name": "Kosovo (Republic of)",
 		"alpha-2": "XK",
-		"country-code": "383"
+		"country-code": "383",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Kuwait",
 		"alpha-2": "KW",
-		"country-code": "414"
+		"country-code": "414",
+		"homosexuality": false
 	},
 	{
 		"name": "Kyrgyzstan",
 		"alpha-2": "KG",
-		"country-code": "417"
+		"country-code": "417",
+		"homosexuality": true
 	},
 	{
 		"name": "Lao People's Democratic Republic",
 		"alpha-2": "LA",
-		"country-code": "418"
+		"country-code": "418",
+		"homosexuality": true
 	},
 	{
 		"name": "Latvia",
 		"alpha-2": "LV",
-		"country-code": "428"
+		"country-code": "428",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Lebanon",
 		"alpha-2": "LB",
-		"country-code": "422"
+		"country-code": "422",
+		"homosexuality": false
 	},
 	{
 		"name": "Lesotho",
 		"alpha-2": "LS",
-		"country-code": "426"
+		"country-code": "426",
+		"homosexuality": false
 	},
 	{
 		"name": "Liberia",
 		"alpha-2": "LR",
-		"country-code": "430"
+		"country-code": "430",
+		"homosexuality": false
 	},
 	{
 		"name": "Libya",
 		"alpha-2": "LY",
-		"country-code": "434"
+		"country-code": "434",
+		"homosexuality": false
 	},
 	{
 		"name": "Liechtenstein",
 		"alpha-2": "LI",
-		"country-code": "438"
+		"country-code": "438",
+		"homosexuality": true
 	},
 	{
 		"name": "Lithuania",
 		"alpha-2": "LT",
-		"country-code": "440"
+		"country-code": "440",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Luxembourg",
 		"alpha-2": "LU",
-		"country-code": "442"
+		"country-code": "442",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Macao",
 		"alpha-2": "MO",
-		"country-code": "446"
+		"country-code": "446",
+		"homosexuality": true
 	},
 	{
 		"name": "Macedonia (the former Yugoslav Republic of)",
 		"alpha-2": "MK",
-		"country-code": "807"
+		"country-code": "807",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Madagascar",
 		"alpha-2": "MG",
-		"country-code": "450"
+		"country-code": "450",
+		"homosexuality": true
 	},
 	{
 		"name": "Malawi",
 		"alpha-2": "MW",
-		"country-code": "454"
+		"country-code": "454",
+		"homosexuality": false
 	},
 	{
 		"name": "Malaysia",
 		"alpha-2": "MY",
-		"country-code": "458"
+		"country-code": "458",
+		"homosexuality": true
 	},
 	{
 		"name": "Maldives",
 		"alpha-2": "MV",
-		"country-code": "462"
+		"country-code": "462",
+		"homosexuality": false
 	},
 	{
 		"name": "Mali",
 		"alpha-2": "ML",
-		"country-code": "466"
+		"country-code": "466",
+		"homosexuality": true
 	},
 	{
 		"name": "Malta",
 		"alpha-2": "MT",
-		"country-code": "470"
+		"country-code": "470",
+		"homosexuality": true
 	},
 	{
 		"name": "Marshall Islands",
 		"alpha-2": "MH",
-		"country-code": "584"
+		"country-code": "584",
+		"homosexuality": true
 	},
 	{
 		"name": "Martinique",
 		"alpha-2": "MQ",
-		"country-code": "474"
+		"country-code": "474",
+		"homosexuality": true
 	},
 	{
 		"name": "Mauritania",
 		"alpha-2": "MR",
-		"country-code": "478"
+		"country-code": "478",
+		"homosexuality": false
 	},
 	{
 		"name": "Mauritius",
 		"alpha-2": "MU",
-		"country-code": "480"
+		"country-code": "480",
+		"homosexuality": false
 	},
 	{
 		"name": "Mayotte",
 		"alpha-2": "YT",
-		"country-code": "175"
+		"country-code": "175",
+		"homosexuality": true
 	},
 	{
 		"name": "Mexico",
 		"alpha-2": "MX",
-		"country-code": "484"
+		"country-code": "484",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Micronesia (Federated States of)",
 		"alpha-2": "FM",
-		"country-code": "583"
+		"country-code": "583",
+		"homosexuality": true
 	},
 	{
 		"name": "Moldova (Republic of)",
 		"alpha-2": "MD",
-		"country-code": "498"
+		"country-code": "498",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Monaco",
 		"alpha-2": "MC",
-		"country-code": "492"
+		"country-code": "492",
+		"homosexuality": true
 	},
 	{
 		"name": "Mongolia",
 		"alpha-2": "MN",
-		"country-code": "496"
+		"country-code": "496",
+		"homosexuality": true
 	},
 	{
 		"name": "Montenegro",
 		"alpha-2": "ME",
-		"country-code": "499"
+		"country-code": "499",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Montserrat",
 		"alpha-2": "MS",
-		"country-code": "500"
+		"country-code": "500",
+		"homosexuality": true
 	},
 	{
 		"name": "Morocco",
 		"alpha-2": "MA",
-		"country-code": "504"
+		"country-code": "504",
+		"homosexuality": false
 	},
 	{
 		"name": "Mozambique",
 		"alpha-2": "MZ",
-		"country-code": "508"
+		"country-code": "508",
+		"homosexuality": true
 	},
 	{
 		"name": "Myanmar",
 		"alpha-2": "MM",
-		"country-code": "104"
+		"country-code": "104",
+		"homosexuality": false
 	},
 	{
 		"name": "Namibia",
 		"alpha-2": "NA",
-		"country-code": "516"
+		"country-code": "516",
+		"homosexuality": false
 	},
 	{
 		"name": "Nauru",
 		"alpha-2": "NR",
-		"country-code": "520"
+		"country-code": "520",
+		"homosexuality": false
 	},
 	{
 		"name": "Nepal",
@@ -789,367 +972,454 @@
 	{
 		"name": "Netherlands",
 		"alpha-2": "NL",
-		"country-code": "528"
+		"country-code": "528",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "New Caledonia",
 		"alpha-2": "NC",
-		"country-code": "540"
+		"country-code": "540",
+		"homosexuality": true
 	},
 	{
 		"name": "New Zealand",
 		"alpha-2": "NZ",
-		"country-code": "554"
+		"country-code": "554",
+		"homosexuality": true
 	},
 	{
 		"name": "Nicaragua",
 		"alpha-2": "NI",
-		"country-code": "558"
+		"country-code": "558",
+		"homosexuality": true
 	},
 	{
 		"name": "Niger",
 		"alpha-2": "NE",
-		"country-code": "562"
+		"country-code": "562",
+		"homosexuality": true
 	},
 	{
 		"name": "Nigeria",
 		"alpha-2": "NG",
-		"country-code": "566"
+		"country-code": "566",
+		"homosexuality": false
 	},
 	{
 		"name": "Niue",
 		"alpha-2": "NU",
-		"country-code": "570"
+		"country-code": "570",
+		"homosexuality": true
 	},
 	{
 		"name": "Norfolk Island",
 		"alpha-2": "NF",
-		"country-code": "574"
+		"country-code": "574",
+		"homosexuality": true
 	},
 	{
 		"name": "Northern Mariana Islands",
 		"alpha-2": "MP",
-		"country-code": "580"
+		"country-code": "580",
+		"homosexuality": true
 	},
 	{
 		"name": "Norway",
 		"alpha-2": "NO",
-		"country-code": "578"
+		"country-code": "578",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Oman",
 		"alpha-2": "OM",
-		"country-code": "512"
+		"country-code": "512",
+		"homosexuality": false
 	},
 	{
 		"name": "Pakistan",
 		"alpha-2": "PK",
-		"country-code": "586"
+		"country-code": "586",
+		"homosexuality": false
 	},
 	{
 		"name": "Palau",
 		"alpha-2": "PW",
-		"country-code": "585"
+		"country-code": "585",
+		"homosexuality": true
 	},
 	{
 		"name": "Palestine, State of",
 		"alpha-2": "PS",
-		"country-code": "275"
+		"country-code": "275",
+		"homosexuality": false
 	},
 	{
 		"name": "Panama",
 		"alpha-2": "PA",
-		"country-code": "591"
+		"country-code": "591",
+		"homosexuality": true
 	},
 	{
 		"name": "Papua New Guinea",
 		"alpha-2": "PG",
-		"country-code": "598"
+		"country-code": "598",
+		"homosexuality": false
 	},
 	{
 		"name": "Paraguay",
 		"alpha-2": "PY",
-		"country-code": "600"
+		"country-code": "600",
+		"homosexuality": true
 	},
 	{
 		"name": "Peru",
 		"alpha-2": "PE",
-		"country-code": "604"
+		"country-code": "604",
+		"homosexuality": true
 	},
 	{
 		"name": "Philippines",
 		"alpha-2": "PH",
-		"country-code": "608"
+		"country-code": "608",
+		"homosexuality": true
 	},
 	{
 		"name": "Pitcairn",
 		"alpha-2": "PN",
-		"country-code": "612"
+		"country-code": "612",
+		"homosexuality": true
 	},
 	{
 		"name": "Poland",
 		"alpha-2": "PL",
-		"country-code": "616"
+		"country-code": "616",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Portugal",
 		"alpha-2": "PT",
-		"country-code": "620"
+		"country-code": "620",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Puerto Rico",
 		"alpha-2": "PR",
-		"country-code": "630"
+		"country-code": "630",
+		"homosexuality": true
 	},
 	{
 		"name": "Qatar",
 		"alpha-2": "QA",
-		"country-code": "634"
+		"country-code": "634",
+		"homosexuality": false
 	},
 	{
 		"name": "Réunion",
 		"alpha-2": "RE",
-		"country-code": "638"
+		"country-code": "638",
+		"homosexuality": true
 	},
 	{
 		"name": "Romania",
 		"alpha-2": "RO",
-		"country-code": "642"
+		"country-code": "642",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Russian Federation",
 		"alpha-2": "RU",
-		"country-code": "643"
+		"country-code": "643",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Rwanda",
 		"alpha-2": "RW",
-		"country-code": "646"
+		"country-code": "646",
+		"homosexuality": true
 	},
 	{
 		"name": "Saint Barthélemy",
 		"alpha-2": "BL",
-		"country-code": "652"
+		"country-code": "652",
+		"homosexuality": true
 	},
 	{
 		"name": "Saint Helena, Ascension and Tristan da Cunha",
 		"alpha-2": "SH",
-		"country-code": "654"
+		"country-code": "654",
+		"homosexuality": true
 	},
 	{
 		"name": "Saint Kitts and Nevis",
 		"alpha-2": "KN",
-		"country-code": "659"
+		"country-code": "659",
+		"homosexuality": false
 	},
 	{
 		"name": "Saint Lucia",
 		"alpha-2": "LC",
-		"country-code": "662"
+		"country-code": "662",
+		"homosexuality": false
 	},
 	{
 		"name": "Saint Martin (French part)",
 		"alpha-2": "MF",
-		"country-code": "663"
+		"country-code": "663",
+		"homosexuality": true
 	},
 	{
 		"name": "Saint Pierre and Miquelon",
 		"alpha-2": "PM",
-		"country-code": "666"
+		"country-code": "666",
+		"homosexuality": true
 	},
 	{
 		"name": "Saint Vincent and the Grenadines",
 		"alpha-2": "VC",
-		"country-code": "670"
+		"country-code": "670",
+		"homosexuality": false
 	},
 	{
 		"name": "Samoa",
 		"alpha-2": "WS",
-		"country-code": "882"
+		"country-code": "882",
+		"homosexuality": false
 	},
 	{
 		"name": "San Marino",
 		"alpha-2": "SM",
-		"country-code": "674"
+		"country-code": "674",
+		"homosexuality": true
 	},
 	{
 		"name": "Sao Tome and Principe",
 		"alpha-2": "ST",
-		"country-code": "678"
+		"country-code": "678",
+		"homosexuality": true
 	},
 	{
 		"name": "Saudi Arabia",
 		"alpha-2": "SA",
-		"country-code": "682"
+		"country-code": "682",
+		"homosexuality": false
 	},
 	{
 		"name": "Senegal",
 		"alpha-2": "SN",
-		"country-code": "686"
+		"country-code": "686",
+		"homosexuality": false
 	},
 	{
 		"name": "Serbia",
 		"alpha-2": "RS",
-		"country-code": "688"
+		"country-code": "688",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Seychelles",
 		"alpha-2": "SC",
-		"country-code": "690"
+		"country-code": "690",
+		"homosexuality": false
 	},
 	{
 		"name": "Sierra Leone",
 		"alpha-2": "SL",
-		"country-code": "694"
+		"country-code": "694",
+		"homosexuality": false
 	},
 	{
 		"name": "Singapore",
 		"alpha-2": "SG",
-		"country-code": "702"
+		"country-code": "702",
+		"homosexuality": false
 	},
 	{
 		"name": "Sint Maarten (Dutch part)",
 		"alpha-2": "SX",
-		"country-code": "534"
+		"country-code": "534",
+		"homosexuality": true
 	},
 	{
 		"name": "Slovakia",
 		"alpha-2": "SK",
-		"country-code": "703"
+		"country-code": "703",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Slovenia",
 		"alpha-2": "SI",
-		"country-code": "705"
+		"country-code": "705",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Solomon Islands",
 		"alpha-2": "SB",
-		"country-code": "090"
+		"country-code": "090",
+		"homosexuality": false
 	},
 	{
 		"name": "Somalia",
 		"alpha-2": "SO",
-		"country-code": "706"
+		"country-code": "706",
+		"homosexuality": false
 	},
 	{
 		"name": "South Africa",
 		"alpha-2": "ZA",
-		"country-code": "710"
+		"country-code": "710",
+		"homosexuality": true
 	},
 	{
 		"name": "South Georgia and the South Sandwich Islands",
 		"alpha-2": "GS",
-		"country-code": "239"
+		"country-code": "239",
+		"homosexuality": true
 	},
 	{
 		"name": "South Sudan",
 		"alpha-2": "SS",
-		"country-code": "728"
+		"country-code": "728",
+		"homosexuality": false
 	},
 	{
 		"name": "Spain",
 		"alpha-2": "ES",
-		"country-code": "724"
+		"country-code": "724",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Sri Lanka",
 		"alpha-2": "LK",
-		"country-code": "144"
+		"country-code": "144",
+		"homosexuality": false
 	},
 	{
 		"name": "Sudan",
 		"alpha-2": "SD",
-		"country-code": "729"
+		"country-code": "729",
+		"homosexuality": false
 	},
 	{
 		"name": "Suriname",
 		"alpha-2": "SR",
-		"country-code": "740"
+		"country-code": "740",
+		"homosexuality": true
 	},
 	{
 		"name": "Svalbard and Jan Mayen",
 		"alpha-2": "SJ",
-		"country-code": "744"
+		"country-code": "744",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Swaziland",
 		"alpha-2": "SZ",
-		"country-code": "748"
+		"country-code": "748",
+		"homosexuality": false
 	},
 	{
 		"name": "Sweden",
 		"alpha-2": "SE",
-		"country-code": "752"
+		"country-code": "752",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Switzerland",
 		"alpha-2": "CH",
-		"country-code": "756"
+		"country-code": "756",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Syrian Arab Republic",
 		"alpha-2": "SY",
-		"country-code": "760"
+		"country-code": "760",
+		"homosexuality": true
 	},
 	{
 		"name": "Taiwan, Province of China",
 		"alpha-2": "TW",
-		"country-code": "158"
+		"country-code": "158",
+		"homosexuality": true
 	},
 	{
 		"name": "Tajikistan",
 		"alpha-2": "TJ",
-		"country-code": "762"
+		"country-code": "762",
+		"homosexuality": true
 	},
 	{
 		"name": "Tanzania, United Republic of",
 		"alpha-2": "TZ",
-		"country-code": "834"
+		"country-code": "834",
+		"homosexuality": false
 	},
 	{
 		"name": "Thailand",
 		"alpha-2": "TH",
-		"country-code": "764"
+		"country-code": "764",
+		"homosexuality": true
 	},
 	{
 		"name": "Timor-Leste",
 		"alpha-2": "TL",
-		"country-code": "626"
+		"country-code": "626",
+		"homosexuality": true
 	},
 	{
 		"name": "Togo",
 		"alpha-2": "TG",
-		"country-code": "768"
+		"country-code": "768",
+		"homosexuality": true
 	},
 	{
 		"name": "Tokelau",
 		"alpha-2": "TK",
-		"country-code": "772"
+		"country-code": "772",
+		"homosexuality": true
 	},
 	{
 		"name": "Tonga",
 		"alpha-2": "TO",
-		"country-code": "776"
+		"country-code": "776",
+		"homosexuality": false
 	},
 	{
 		"name": "Trinidad and Tobago",
 		"alpha-2": "TT",
-		"country-code": "780"
+		"country-code": "780",
+		"homosexuality": false
 	},
 	{
 		"name": "Tunisia",
 		"alpha-2": "TN",
-		"country-code": "788"
+		"country-code": "788",
+		"homosexuality": false
 	},
 	{
 		"name": "Turkey",
 		"alpha-2": "TR",
-		"country-code": "792"
+		"country-code": "792",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Turkmenistan",
 		"alpha-2": "TM",
-		"country-code": "795"
+		"country-code": "795",
+		"homosexuality": false
 	},
 	{
 		"name": "Turks and Caicos Islands",
@@ -1159,22 +1429,27 @@
 	{
 		"name": "Tuvalu",
 		"alpha-2": "TV",
-		"country-code": "798"
+		"country-code": "798",
+		"homosexuality": false
 	},
 	{
 		"name": "Uganda",
 		"alpha-2": "UG",
-		"country-code": "800"
+		"country-code": "800",
+		"homosexuality": false
 	},
 	{
 		"name": "Ukraine",
 		"alpha-2": "UA",
-		"country-code": "804"
+		"country-code": "804",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "United Arab Emirates",
 		"alpha-2": "AE",
-		"country-code": "784"
+		"country-code": "784",
+		"homosexuality": false
 	},
 	{
 		"name": "United Kingdom of Great Britain and Northern Ireland",
@@ -1186,71 +1461,86 @@
 	{
 		"name": "United States of America",
 		"alpha-2": "US",
-		"country-code": "840"
+		"country-code": "840",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "United States Minor Outlying Islands",
 		"alpha-2": "UM",
-		"country-code": "581"
+		"country-code": "581",
+		"homosexuality": true
 	},
 	{
 		"name": "Uruguay",
 		"alpha-2": "UY",
-		"country-code": "858"
+		"country-code": "858",
+		"homosexuality": true
 	},
 	{
 		"name": "Uzbekistan",
 		"alpha-2": "UZ",
-		"country-code": "860"
+		"country-code": "860",
+		"homosexuality": false
 	},
 	{
 		"name": "Vanuatu",
 		"alpha-2": "VU",
-		"country-code": "548"
+		"country-code": "548",
+		"homosexuality": true
 	},
 	{
 		"name": "Venezuela (Bolivarian Republic of)",
 		"alpha-2": "VE",
-		"country-code": "862"
+		"country-code": "862",
+		"homosexuality": true
 	},
 	{
 		"name": "Viet Nam",
 		"alpha-2": "VN",
-		"country-code": "704"
+		"country-code": "704",
+		"homosexuality": true
 	},
 	{
 		"name": "Virgin Islands (British)",
 		"alpha-2": "VG",
-		"country-code": "092"
+		"country-code": "092",
+		"homosexuality": true
 	},
 	{
 		"name": "Virgin Islands (U.S.)",
 		"alpha-2": "VI",
-		"country-code": "850"
+		"country-code": "850",
+		"homosexuality": true
 	},
 	{
 		"name": "Wallis and Futuna",
 		"alpha-2": "WF",
-		"country-code": "876"
+		"country-code": "876",
+		"homosexuality": true
 	},
 	{
 		"name": "Western Sahara",
 		"alpha-2": "EH",
-		"country-code": "732"
+		"country-code": "732",
+		"homosexuality": true
 	},
 	{
 		"name": "Yemen",
 		"alpha-2": "YE",
-		"country-code": "887"
+		"country-code": "887",
+		"homosexuality": false
 	},
 	{
 		"name": "Zambia",
 		"alpha-2": "ZM",
-		"country-code": "894"
+		"country-code": "894",
+		"homosexuality": false
 	},
 	{
 		"name": "Zimbabwe",
 		"alpha-2": "ZW",
-		"country-code": "716"
+		"country-code": "716",
+		"homosexuality": false
 	}
 ]
