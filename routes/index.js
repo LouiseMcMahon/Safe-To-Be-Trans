@@ -22,8 +22,6 @@ router.get('/', function (req, res, next) {
 			mapData.push({'id': country.code, 'color': country.mapColor, 'balloonText' : html});
 		}
 
-		console.log(mapData);
-
 		res.render('index', {mapData: mapData});
 	});
 

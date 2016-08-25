@@ -29,7 +29,7 @@ block content
 			//scales the height as AmCharts does not work if the container has percentage height
 			$(function () {
 				$(window).resize(function () {
-					$('#chartdiv').height($(window).height() - $('#chartdiv').offset().top);
+					$('#chartdiv').height($(window).height() - ($('#header').outerHeight(true) + $('#footer').outerHeight(true)));
 				});
 				$(window).resize();
 			});
