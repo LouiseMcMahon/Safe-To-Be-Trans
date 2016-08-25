@@ -532,7 +532,9 @@
 	{
 		"name": "Ireland",
 		"alpha-2": "IE",
-		"country-code": "372"
+		"country-code": "372",
+		"transgender": true,
+		"homosexuality": true
 	},
 	{
 		"name": "Isle of Man",
