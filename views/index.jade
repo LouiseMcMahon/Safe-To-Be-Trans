@@ -17,11 +17,8 @@ block content
 				'dataProvider': {
 					'map': 'worldLow',
 					'getAreasFromMap': true,
-					'areas': [
-						{'id': 'AU', 'color': '#CC0000', 'balloonText' : ''},
-						{'id': 'US', 'color': '#00CC00'},
-						{'id': 'FR', 'color': '#0000CC'}
-					]
+					'areas': !{JSON.stringify(mapData)}
+
 				},
 				'smallMap': {},
 				'responsive': {
