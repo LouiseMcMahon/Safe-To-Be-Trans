@@ -10,3 +10,11 @@
 				a(href='https://github.com/LouiseMcMahon/Safe-To-Be-Trans') Github
 	.col-xs-12.
 		Note while all attempts have been made to maintain the accuracy of this map it should be used only as a guide and you should always check the local laws and customs of any country you travel to regardless of your gender or sexuality.
+
+script.
+	$(function () {
+		$(window).resize(function () {
+			$('#content').height($(window).height() - ($('#header').outerHeight(true) + $('#footer').outerHeight(true)));
+		});
+		$(window).resize();
+	});
