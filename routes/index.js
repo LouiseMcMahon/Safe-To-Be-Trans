@@ -18,7 +18,6 @@ router.get('/', function (req, res, next) {
 			var locals = {name: country.name,transgender: country.transgender,homosexuality: country.homosexuality},
 				render = jade.compileFile('views/mapBubble.jade'),
 				html   = render(locals);
-
 			mapData.push({'id': country.code, 'color': country.mapColor, 'balloonText' : html});
 		}
 

@@ -7,7 +7,8 @@ var cookieParser = require('cookie-parser');
 var bodyParser = require('body-parser');
 
 var routes = require('./routes/index');
-var users = require('./routes/users');
+var about = require('./routes/about');
+var help = require('./routes/help');
 
 var app = express();
 
@@ -33,7 +34,8 @@ app.use(sassMiddleware({
 app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
-app.use('/users', users);
+app.use('/about', about);
+app.use('/help', help);
 
 //ammap files
 app.use('/map/ammap.js', express.static('node_modules/ammap3/ammap/ammap.js'));
