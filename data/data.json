@@ -64,7 +64,8 @@
 		"name": "Argentina",
 		"alpha-2": "AR",
 		"country-code": "032",
-		"homosexuality": true
+		"homosexuality": true,
+		"transgender": true
 	},
 	{
 		"name": "Armenia",
@@ -646,7 +647,8 @@
 		"name": "Iran (Islamic Republic of)",
 		"alpha-2": "IR",
 		"country-code": "364",
-		"homosexuality": false
+		"homosexuality": false,
+		"transgender": true
 	},
 	{
 		"name": "Iraq",
@@ -986,7 +988,8 @@
 		"name": "New Zealand",
 		"alpha-2": "NZ",
 		"country-code": "554",
-		"homosexuality": true
+		"homosexuality": true,
+		"transgender": true
 	},
 	{
 		"name": "Nicaragua",
