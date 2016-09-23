@@ -7,7 +7,8 @@
   "scripts": {
     "start": "node ./bin/www",
     "debug": "node-inspector",
-    "test": "mocha"
+    "test": "mocha",
+    "test-jenkins": "jenkins-mocha --cobertura test/*"
   },
   "repository": {
     "type": "git",
