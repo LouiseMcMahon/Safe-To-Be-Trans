@@ -7,8 +7,7 @@
   "scripts": {
     "start": "node ./bin/www",
     "debug": "node-inspector",
-    "test": "mocha",
-    "test-jenkins": "JUNIT_REPORT_PATH=/report.xml mocha --colors --reporter mocha-jenkins-reporter"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -40,9 +39,9 @@
     "serve-favicon": "~2.3.0"
   },
   "devDependencies": {
-    "mocha": "^2.4.5",
     "chai": "^3.5.0",
     "eslint": "^3.5.0",
-    "mocha-jenkins-reporter": "0.2.6"
+    "jenkins-mocha": "^3.0.4",
+    "mocha": "^2.4.5"
   }
 }
