@@ -8,7 +8,7 @@
     "start": "node ./bin/www",
     "debug": "node-inspector",
     "test": "mocha",
-    "test-jenkins": "jenkins-mocha --cobertura test/*"
+    "test-jenkins": "mocha test --reporter mocha-junit-reporter"
   },
   "repository": {
     "type": "git",
@@ -42,7 +42,7 @@
   "devDependencies": {
     "chai": "^3.5.0",
     "eslint": "^3.5.0",
-    "jenkins-mocha": "^3.0.4",
-    "mocha": "^2.4.5"
+    "mocha": "^2.4.5",
+    "mocha-junit-reporter": "^1.12.0"
   }
 }
