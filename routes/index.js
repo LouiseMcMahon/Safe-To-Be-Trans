@@ -7,8 +7,6 @@ var Data = require('../models/data.js');
 /* GET home page. */
 router.get('/', function (req, res, next) {
 
-
-
 	Data.getData(function (err,data) {
 		var mapData = [];
 

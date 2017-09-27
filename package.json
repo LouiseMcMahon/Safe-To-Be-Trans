@@ -6,9 +6,9 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "debug": "node-inspector",
     "test": "mocha",
-    "test-jenkins": "mocha test --reporter mocha-junit-reporter"
+    "cover": "nyc mocha",
+    "ci-cover": "nyc report --reporter=text-lcov | coveralls"
   },
   "repository": {
     "type": "git",
@@ -41,8 +41,10 @@
   },
   "devDependencies": {
     "chai": "^4.1.2",
+    "coveralls": "^2.13.1",
     "eslint": "^4.7.2",
     "mocha": "^3.5.3",
-    "mocha-junit-reporter": "^1.12.0"
+    "mocha-junit-reporter": "^1.12.0",
+    "nyc": "^11.2.1"
   }
 }
