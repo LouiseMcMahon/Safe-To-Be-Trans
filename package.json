@@ -31,7 +31,7 @@
   "dependencies": {
     "ammap3": "amcharts/ammap3",
     "body-parser": "~1.18.2",
-    "cookie-parser": "~1.4.3",
+    "cookie-parser": "~1.4.5",
     "debug": "~3.1.0",
     "express": "~4.15.5",
     "jade": "^1.11.0",
